@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Issue by Issue
+=======
+Issue by Issue
+>>>>>>> Issue2
 
